@@ -1,0 +1,78 @@
+E:\CULPINA\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll.config
+E:\CULPINA\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll
+E:\CULPINA\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.pdb
+E:\CULPINA\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.xml
+E:\CULPINA\ProyectoWeb\ProyectoWeb\bin\ServidordeDatosnet.dll
+E:\CULPINA\ProyectoWeb\ProyectoWeb\bin\ServidordeDatosnet.pdb
+E:\CULPINA\ProyectoWeb\ProyectoWeb\bin\ServidordeDatosnet.xml
+E:\CULPINA\ProyectoWeb\ProyectoWeb\obj\Debug\CortesWeb.vbproj.AssemblyReference.cache
+E:\CULPINA\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.Resources.resources
+E:\CULPINA\ProyectoWeb\ProyectoWeb\obj\Debug\CortesWeb.vbproj.GenerateResource.cache
+E:\CULPINA\ProyectoWeb\ProyectoWeb\obj\Debug\CortesWeb.vbproj.CoreCompileInputs.cache
+E:\CULPINA\ProyectoWeb\ProyectoWeb\obj\Debug\CortesWeb.vbproj.CopyComplete
+E:\CULPINA\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+E:\CULPINA\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.xml
+E:\CULPINA\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+D:\CULPINA\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll.config
+D:\CULPINA\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll
+D:\CULPINA\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.pdb
+D:\CULPINA\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.xml
+D:\CULPINA\ProyectoWeb\ProyectoWeb\bin\ServidordeDatosnet.dll
+D:\CULPINA\ProyectoWeb\ProyectoWeb\bin\ServidordeDatosnet.pdb
+D:\CULPINA\ProyectoWeb\ProyectoWeb\bin\ServidordeDatosnet.xml
+D:\CULPINA\ProyectoWeb\ProyectoWeb\obj\Debug\CortesWeb.vbproj.AssemblyReference.cache
+D:\CULPINA\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.Resources.resources
+D:\CULPINA\ProyectoWeb\ProyectoWeb\obj\Debug\CortesWeb.vbproj.GenerateResource.cache
+D:\CULPINA\ProyectoWeb\ProyectoWeb\obj\Debug\CortesWeb.vbproj.CoreCompileInputs.cache
+D:\CULPINA\ProyectoWeb\ProyectoWeb\obj\Debug\CortesWeb.vbproj.CopyComplete
+D:\CULPINA\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+D:\CULPINA\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.xml
+D:\CULPINA\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+D:\12_SVRDATOSGNA\ServidorDatosNet_GNA\Version 3.0.0\ProyectoWeb\obj\Debug\CortesWeb.vbproj.AssemblyReference.cache
+D:\12_SVRDATOSGNA\ServidorDatosNet_GNA\Version 3.0.0\ProyectoWeb\obj\Debug\ProyectoWeb.Resources.resources
+D:\12_SVRDATOSGNA\ServidorDatosNet_GNA\Version 3.0.0\ProyectoWeb\obj\Debug\CortesWeb.vbproj.GenerateResource.cache
+D:\12_SVRDATOSGNA\ServidorDatosNet_GNA\Version 3.0.0\ProyectoWeb\obj\Debug\CortesWeb.vbproj.CoreCompileInputs.cache
+D:\12_SVRDATOSGNA\ServidorDatosNet_GNA\Version 3.0.0\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+D:\12_SVRDATOSGNA\ServidorDatosNet_GNA\Version 3.0.0\ProyectoWeb\obj\Debug\ProyectoWeb.xml
+D:\12_SVRDATOSGNA\ServidorDatosNet_GNA\Version 3.0.0\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+D:\12_SVRDATOSGNA\ServidorDatosNet_GNA\Version 3.0.0\ProyectoWeb\bin\ProyectoWeb.dll.config
+D:\12_SVRDATOSGNA\ServidorDatosNet_GNA\Version 3.0.0\ProyectoWeb\bin\ProyectoWeb.dll
+D:\12_SVRDATOSGNA\ServidorDatosNet_GNA\Version 3.0.0\ProyectoWeb\bin\ProyectoWeb.pdb
+D:\12_SVRDATOSGNA\ServidorDatosNet_GNA\Version 3.0.0\ProyectoWeb\bin\ProyectoWeb.xml
+D:\12_SVRDATOSGNA\ServidorDatosNet_GNA\Version 3.0.0\ProyectoWeb\bin\ServidorDatosNet_GNA.dll
+D:\12_SVRDATOSGNA\ServidorDatosNet_GNA\Version 3.0.0\ProyectoWeb\bin\ServidorDatosNet_GNA.pdb
+D:\12_SVRDATOSGNA\ServidorDatosNet_GNA\Version 3.0.0\ProyectoWeb\bin\ServidorDatosNet_GNA.xml
+D:\12_SVRDATOSGNA\ServidorDatosNet_GNA\Version 3.0.0\ProyectoWeb\obj\Debug\CortesWeb.vbproj.CopyComplete
+C:\SIS_CONTROL\ProyectoWeb\bin\ProyectoWeb.dll.config
+C:\SIS_CONTROL\ProyectoWeb\bin\ProyectoWeb.dll
+C:\SIS_CONTROL\ProyectoWeb\bin\ProyectoWeb.pdb
+C:\SIS_CONTROL\ProyectoWeb\bin\ProyectoWeb.xml
+C:\SIS_CONTROL\ProyectoWeb\bin\ServidorDatosNet_GNA.dll
+C:\SIS_CONTROL\ProyectoWeb\bin\ServidorDatosNet_GNA.pdb
+C:\SIS_CONTROL\ProyectoWeb\bin\ServidorDatosNet_GNA.xml
+C:\SIS_CONTROL\ProyectoWeb\obj\Debug\CortesWeb.vbproj.AssemblyReference.cache
+C:\SIS_CONTROL\ProyectoWeb\obj\Debug\ProyectoWeb.Resources.resources
+C:\SIS_CONTROL\ProyectoWeb\obj\Debug\CortesWeb.vbproj.GenerateResource.cache
+C:\SIS_CONTROL\ProyectoWeb\obj\Debug\CortesWeb.vbproj.CoreCompileInputs.cache
+C:\SIS_CONTROL\ProyectoWeb\obj\Debug\CortesWeb.vbproj.Up2Date
+C:\SIS_CONTROL\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+C:\SIS_CONTROL\ProyectoWeb\obj\Debug\ProyectoWeb.xml
+C:\SIS_CONTROL\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+C:\Proyectos_WinForm\SIS_CONTROL\ProyectoWeb\obj\Debug\CortesWeb.vbproj.AssemblyReference.cache
+C:\Proyectos_WinForm\SIS_CONTROL\ProyectoWeb\obj\Debug\ProyectoWeb.Resources.resources
+C:\Proyectos_WinForm\SIS_CONTROL\ProyectoWeb\obj\Debug\CortesWeb.vbproj.GenerateResource.cache
+C:\Proyectos_WinForm\SIS_CONTROL\ProyectoWeb\obj\Debug\CortesWeb.vbproj.CoreCompileInputs.cache
+C:\Proyectos_WinForm\SIS_CONTROL\ProyectoWeb\bin\ProyectoWeb.dll.config
+C:\Proyectos_WinForm\SIS_CONTROL\ProyectoWeb\bin\ProyectoWeb.dll
+C:\Proyectos_WinForm\SIS_CONTROL\ProyectoWeb\bin\ProyectoWeb.pdb
+C:\Proyectos_WinForm\SIS_CONTROL\ProyectoWeb\bin\ProyectoWeb.xml
+C:\Proyectos_WinForm\SIS_CONTROL\ProyectoWeb\bin\CapaNegocioSis_Control.dll
+C:\Proyectos_WinForm\SIS_CONTROL\ProyectoWeb\bin\ServidorDatosNet_GNA.dll
+C:\Proyectos_WinForm\SIS_CONTROL\ProyectoWeb\bin\CapaNegocioSis_Control.pdb
+C:\Proyectos_WinForm\SIS_CONTROL\ProyectoWeb\bin\CapaNegocioSis_Control.xml
+C:\Proyectos_WinForm\SIS_CONTROL\ProyectoWeb\bin\ServidorDatosNet_GNA.pdb
+C:\Proyectos_WinForm\SIS_CONTROL\ProyectoWeb\bin\ServidorDatosNet_GNA.xml
+C:\Proyectos_WinForm\SIS_CONTROL\ProyectoWeb\obj\Debug\CortesWeb.vbproj.Up2Date
+C:\Proyectos_WinForm\SIS_CONTROL\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+C:\Proyectos_WinForm\SIS_CONTROL\ProyectoWeb\obj\Debug\ProyectoWeb.xml
+C:\Proyectos_WinForm\SIS_CONTROL\ProyectoWeb\obj\Debug\ProyectoWeb.pdb

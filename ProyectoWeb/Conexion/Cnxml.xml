@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<aplicaciones>
+
+
+	<Cortes>
+		<connectionstring>
+			Persist Security Info=False; Password=AvAA.1480;User ID=SA;Initial Catalog=SIS_CONTROL                                                                                                                                                                                                                                             ;Data Source=DESKTOP-KGBT41Q
+		</connectionstring>
+	</Cortes>
+
+
+	</aplicaciones>

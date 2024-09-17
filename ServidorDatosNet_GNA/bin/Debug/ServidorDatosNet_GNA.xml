@@ -1,0 +1,184 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ServidorDatosNet_GNA
+</name>
+</assembly>
+<members>
+<member name="T:ServidorDatosNet_GNA.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:ServidorDatosNet_GNA.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:ServidorDatosNet_GNA.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="M:ServidorDatosNet_GNA.modConexion.ObtenerStringConexion(System.String)">
+ <summary>
+ Médoto que permite obtener el origen de la cadena de conexión
+ </summary>
+ <param name="strConexion">Tag de conexion u origen de datos</param>
+ <returns></returns>
+</member>
+<member name="M:ServidorDatosNet_GNA.modConexion.ObtenerStringWebConfig(System.String,System.Collections.Specialized.NameValueCollection@)">
+ <summary>
+ Médoto que permite obtener la cadena de conexión, desde el webconfig cifrada con el ServidorDatos
+ </summary>
+ <param name="nombreKey">Nombre de la key dentro del AppSetting</param>
+ <param name="appSettings">AppSetting dentro del webconfig</param>
+ <returns></returns>
+</member>
+<member name="M:ServidorDatosNet_GNA.modConexion.ObtenerStringDeArchivoXML(System.String,System.String)">
+ <summary>
+ Médoto que permite obtener el origen de la cadena de conexión desde un archivo Xml
+ </summary>
+ <param name="strPath">Url de origen de la conexión</param>
+ <param name="strAplicacion">Nodo del xml para tomar la cadena</param>
+ <returns></returns>
+</member>
+<member name="M:ServidorDatosNet_GNA.modConexion.ObtenerStringDeArchivoXML3(System.String,System.String,System.String)">
+ <summary>
+ Médoto que permite obtener el origen de la cadena de conexión desde un archivo Xml tomando el tag "ccss" 
+ </summary>
+ <param name="strPath">Url de origen de la conexión</param>
+ <param name="strAplicacion">Nodo del xml para tomar la cadena</param>
+ <param name="strParametro">Este parámetro NO se usa</param>
+ <returns></returns>
+</member>
+<member name="M:ServidorDatosNet_GNA.svr.Insert(System.Object)">
+ <summary>
+ Método que permite insertar un objeto del tipo elegido.
+ </summary>
+ <param name="oNuevo">Requiere un objeto del tipo elegido para trabajar.</param>
+ <returns></returns>
+</member>
+<member name="M:ServidorDatosNet_GNA.svr.Update(System.Object)">
+ <summary>
+ Método que permite modificar un objeto del tipo elegido.
+ </summary>
+ <param name="oNuevo">Requiere un objeto del tipo elegido para trabajar.</param>
+ <returns></returns>
+</member>
+<member name="M:ServidorDatosNet_GNA.svr.Delete(System.Int32)">
+ <summary>
+ Método que permite Eliminar un objeto.
+ </summary>
+ <param name="ID">Requiere un entero que hace refencia al Id del objeto a eliminar.</param>
+ <returns></returns>
+</member>
+<member name="M:ServidorDatosNet_GNA.svr.ObtenerRegistro(System.Object,System.Int32)">
+ <summary>
+ Método que permite obtener un objeto
+ </summary>
+ <param name="_obj">Requiere un objeto vacio del tipo elegido para trabajar.</param>
+ <param name="ID">Requiere un entero que hace refencia al Id</param>
+ <returns></returns>
+</member>
+<member name="M:ServidorDatosNet_GNA.svr.DataTableToList``1(System.Data.DataTable)">
+ <summary>
+ metodo que cobnviente un datatable a lista de objeto generico
+ </summary>
+ <typeparam name="T"></typeparam>
+ <param name="table"></param>
+ <returns></returns>
+</member>
+<member name="M:ServidorDatosNet_GNA.svr.ConvertDataTableToList``1(System.Data.DataTable)">
+ <summary>
+ Convierte un datatable a lista de tipo generica
+ </summary>
+ <typeparam name="T"></typeparam>
+ <param name="dt"></param>
+ <returns></returns>
+</member>
+<member name="M:ServidorDatosNet_GNA.svr.CreateItemFromRow``1(System.Data.DataRow)">
+ <summary>
+ se usa en el metodo ConvertDataTableToList
+ </summary>
+ <typeparam name="T"></typeparam>
+ <param name="row"></param>
+ <returns></returns>
+</member>
+<member name="M:ServidorDatosNet_GNA.svr.Err_list(System.String,System.Exception)">
+ <summary>
+ este metodo no se esta usando
+ </summary>
+ <param name="msg"></param>
+ <param name="ex_"></param>
+ <returns></returns>
+</member>
+<member name="M:ServidorDatosNet_GNA.svr.Agregar(System.Object[])">
+ <summary>
+ Metodo permite Agregar un registro mediante el procedimiento almacenado _IN
+ </summary>
+ <param name="Parametros">Requiere los parametros del SP</param>
+ <returns></returns>
+</member>
+<member name="M:ServidorDatosNet_GNA.svr.Eliminar(System.Object[])">
+ <summary>
+  Metodo permite Eliminar un registro mediante el procedimiento almacenado _EL
+ </summary>
+ <param name="Parametros">Requiere el id del registro a eliminar</param>
+</member>
+<member name="M:ServidorDatosNet_GNA.svr.Modificar(System.Object[])">
+ <summary>
+ Metodo permite Modificar un registro mediante el procedimiento almacenado _AC
+ </summary>
+ <param name="Parametros">Requiere los parametros del SP</param>
+</member>
+<member name="M:ServidorDatosNet_GNA.svr.TraerUno(System.Object[])">
+ <summary>
+ Metodo permite Obtener un registro mediante el procedimiento almacenado _OU
+ </summary>
+ <param name="Parametros">Requiere el id del registro a obtener</param>
+ <returns></returns>
+</member>
+<member name="M:ServidorDatosNet_GNA.svr.TraerTodos">
+ <summary>
+ Metodo permite Obtener todos los registros mediante el procedimiento almacenado _OT
+ Cabrera Rodrigo Valentin
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:ServidorDatosNet_GNA.svr.Filtrado(System.Object[])">
+ <summary>
+ Metodo permite Obtener todos los registros mediante el procedimiento almacenado _FILTRADO
+ </summary>
+ <param name="Parametros">Requiere parametros a filtrar por el SP</param>
+ <returns></returns>
+</member>
+<member name="M:ServidorDatosNet_GNA.svr.EjecutarSp(System.String,System.Object[])">
+ <summary>
+ Metodo permite ejecutar cualquier Procedimiento Almacenado segun la tabla de referencia
+ </summary>
+ <param name="sp"></param>
+ <param name="Parametros">Requiere todos los parametros necesarios del SP</param>
+ <returns></returns>
+</member>
+<member name="M:ServidorDatosNet_GNA.svr.EjecutarSpLIBRE_cs_usuario(System.String,System.String,System.Object[])">
+ <summary>
+ Metodo permite ejecutar cualquier Procedimiento Almacenado eligiendo una cadena de conexion particular
+ </summary>
+ <param name="sp">Nombre SP</param>
+ <param name="cString_de_usuario">Tag de conexion</param>
+ <param name="Parametros">Requiere todos los parametros necesarios del SP</param>
+ <returns></returns>
+</member>
+<member name="M:ServidorDatosNet_GNA.svr.EjecutarSpLIBRE(System.String,System.Object[])">
+ <summary>
+ Metodo permite ejecutar cualquier Procedimiento Almacenado de manera libre invocando el Nombre completo de SP
+ </summary>
+ <param name="sp">Nombre SP</param>
+ <param name="Parametros">Requiere todos los parametros necesarios del SP</param>
+ <returns></returns>
+</member>
+</members>
+</doc>

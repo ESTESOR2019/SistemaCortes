@@ -1,0 +1,77 @@
+D:\Proyectos\BIBLIOTECA_DIGITAL\VERSION 1.0.0\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.dll
+D:\Proyectos\BIBLIOTECA_DIGITAL\VERSION 1.0.0\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.pdb
+D:\Proyectos\BIBLIOTECA_DIGITAL\VERSION 1.0.0\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.xml
+D:\Proyectos\BIBLIOTECA_DIGITAL\VERSION 1.0.0\ServidorDatosNet_GNA\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos\BIBLIOTECA_DIGITAL\VERSION 1.0.0\ServidorDatosNet_GNA\bin\Debug\Newtonsoft.Json.xml
+D:\Proyectos\BIBLIOTECA_DIGITAL\VERSION 1.0.0\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.AssemblyReference.cache
+D:\Proyectos\BIBLIOTECA_DIGITAL\VERSION 1.0.0\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.Resources.resources
+D:\Proyectos\BIBLIOTECA_DIGITAL\VERSION 1.0.0\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.GenerateResource.cache
+D:\Proyectos\BIBLIOTECA_DIGITAL\VERSION 1.0.0\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CoreCompileInputs.cache
+D:\Proyectos\BIBLIOTECA_DIGITAL\VERSION 1.0.0\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CopyComplete
+D:\Proyectos\BIBLIOTECA_DIGITAL\VERSION 1.0.0\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.dll
+D:\Proyectos\BIBLIOTECA_DIGITAL\VERSION 1.0.0\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.xml
+D:\Proyectos\BIBLIOTECA_DIGITAL\VERSION 1.0.0\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.pdb
+D:\REPOSITORIOS\BIBLIOTECA_DIGITAL\VERSION 1.0.0\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.dll
+D:\REPOSITORIOS\BIBLIOTECA_DIGITAL\VERSION 1.0.0\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.pdb
+D:\REPOSITORIOS\BIBLIOTECA_DIGITAL\VERSION 1.0.0\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.xml
+D:\REPOSITORIOS\BIBLIOTECA_DIGITAL\VERSION 1.0.0\ServidorDatosNet_GNA\bin\Debug\Newtonsoft.Json.dll
+D:\REPOSITORIOS\BIBLIOTECA_DIGITAL\VERSION 1.0.0\ServidorDatosNet_GNA\bin\Debug\Newtonsoft.Json.xml
+D:\REPOSITORIOS\BIBLIOTECA_DIGITAL\VERSION 1.0.0\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbprojAssemblyReference.cache
+D:\REPOSITORIOS\BIBLIOTECA_DIGITAL\VERSION 1.0.0\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.Resources.resources
+D:\REPOSITORIOS\BIBLIOTECA_DIGITAL\VERSION 1.0.0\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.GenerateResource.cache
+D:\REPOSITORIOS\BIBLIOTECA_DIGITAL\VERSION 1.0.0\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CoreCompileInputs.cache
+D:\REPOSITORIOS\BIBLIOTECA_DIGITAL\VERSION 1.0.0\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CopyComplete
+D:\REPOSITORIOS\BIBLIOTECA_DIGITAL\VERSION 1.0.0\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.dll
+D:\REPOSITORIOS\BIBLIOTECA_DIGITAL\VERSION 1.0.0\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.xml
+D:\REPOSITORIOS\BIBLIOTECA_DIGITAL\VERSION 1.0.0\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.pdb
+F:\Bre\SISTEMAS DESARROLLADOS\PruebaServidorDatos\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.dll
+F:\Bre\SISTEMAS DESARROLLADOS\PruebaServidorDatos\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.pdb
+F:\Bre\SISTEMAS DESARROLLADOS\PruebaServidorDatos\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.xml
+F:\Bre\SISTEMAS DESARROLLADOS\PruebaServidorDatos\ServidorDatosNet_GNA\bin\Debug\Newtonsoft.Json.dll
+F:\Bre\SISTEMAS DESARROLLADOS\PruebaServidorDatos\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.AssemblyReference.cache
+F:\Bre\SISTEMAS DESARROLLADOS\PruebaServidorDatos\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.Resources.resources
+F:\Bre\SISTEMAS DESARROLLADOS\PruebaServidorDatos\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.GenerateResource.cache
+F:\Bre\SISTEMAS DESARROLLADOS\PruebaServidorDatos\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CoreCompileInputs.cache
+F:\Bre\SISTEMAS DESARROLLADOS\PruebaServidorDatos\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CopyComplete
+F:\Bre\SISTEMAS DESARROLLADOS\PruebaServidorDatos\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.dll
+F:\Bre\SISTEMAS DESARROLLADOS\PruebaServidorDatos\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.xml
+F:\Bre\SISTEMAS DESARROLLADOS\PruebaServidorDatos\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.pdb
+D:\12_SVRDATOSGNA\ServidorDatosNet_GNA\Version 3.0.0\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.dll
+D:\12_SVRDATOSGNA\ServidorDatosNet_GNA\Version 3.0.0\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.pdb
+D:\12_SVRDATOSGNA\ServidorDatosNet_GNA\Version 3.0.0\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.xml
+D:\12_SVRDATOSGNA\ServidorDatosNet_GNA\Version 3.0.0\ServidorDatosNet_GNA\bin\Debug\Newtonsoft.Json.dll
+D:\12_SVRDATOSGNA\ServidorDatosNet_GNA\Version 3.0.0\ServidorDatosNet_GNA\bin\Debug\Newtonsoft.Json.xml
+D:\12_SVRDATOSGNA\ServidorDatosNet_GNA\Version 3.0.0\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.AssemblyReference.cache
+D:\12_SVRDATOSGNA\ServidorDatosNet_GNA\Version 3.0.0\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.Resources.resources
+D:\12_SVRDATOSGNA\ServidorDatosNet_GNA\Version 3.0.0\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.GenerateResource.cache
+D:\12_SVRDATOSGNA\ServidorDatosNet_GNA\Version 3.0.0\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CoreCompileInputs.cache
+D:\12_SVRDATOSGNA\ServidorDatosNet_GNA\Version 3.0.0\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CopyComplete
+D:\12_SVRDATOSGNA\ServidorDatosNet_GNA\Version 3.0.0\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.dll
+D:\12_SVRDATOSGNA\ServidorDatosNet_GNA\Version 3.0.0\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.xml
+D:\12_SVRDATOSGNA\ServidorDatosNet_GNA\Version 3.0.0\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.pdb
+C:\SIS_CONTROL\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.dll
+C:\SIS_CONTROL\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.pdb
+C:\SIS_CONTROL\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.xml
+C:\SIS_CONTROL\ServidorDatosNet_GNA\bin\Debug\Newtonsoft.Json.dll
+C:\SIS_CONTROL\ServidorDatosNet_GNA\bin\Debug\Newtonsoft.Json.xml
+C:\SIS_CONTROL\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.AssemblyReference.cache
+C:\SIS_CONTROL\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.Resources.resources
+C:\SIS_CONTROL\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.GenerateResource.cache
+C:\SIS_CONTROL\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CoreCompileInputs.cache
+C:\SIS_CONTROL\ServidorDatosNet_GNA\obj\Debug\Servidor.79DF810A.Up2Date
+C:\SIS_CONTROL\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.dll
+C:\SIS_CONTROL\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.xml
+C:\SIS_CONTROL\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.pdb
+C:\Proyectos_WinForm\SIS_CONTROL\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.dll
+C:\Proyectos_WinForm\SIS_CONTROL\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.pdb
+C:\Proyectos_WinForm\SIS_CONTROL\ServidorDatosNet_GNA\bin\Debug\ServidorDatosNet_GNA.xml
+C:\Proyectos_WinForm\SIS_CONTROL\ServidorDatosNet_GNA\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos_WinForm\SIS_CONTROL\ServidorDatosNet_GNA\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos_WinForm\SIS_CONTROL\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.AssemblyReference.cache
+C:\Proyectos_WinForm\SIS_CONTROL\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.Resources.resources
+C:\Proyectos_WinForm\SIS_CONTROL\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.GenerateResource.cache
+C:\Proyectos_WinForm\SIS_CONTROL\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.vbproj.CoreCompileInputs.cache
+C:\Proyectos_WinForm\SIS_CONTROL\ServidorDatosNet_GNA\obj\Debug\Servidor.79DF810A.Up2Date
+C:\Proyectos_WinForm\SIS_CONTROL\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.dll
+C:\Proyectos_WinForm\SIS_CONTROL\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.xml
+C:\Proyectos_WinForm\SIS_CONTROL\ServidorDatosNet_GNA\obj\Debug\ServidorDatosNet_GNA.pdb
